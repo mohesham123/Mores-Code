@@ -1,4 +1,3 @@
-# Mores-Code
 # Morse Code Transmitter Project
 
 ## Introduction
